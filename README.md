@@ -1,2 +1,2 @@
 # knowYourStatus
-HIV Information Hub for Nigerian Adolescents and Young People (AYP) 
+HIV Information Hub for  Adolescents and Young People (AYP) in Nigeria
